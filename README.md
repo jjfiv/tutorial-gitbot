@@ -32,3 +32,6 @@ git push
 1. Go back and let the other one try. See that Git can resolve some changes automatically!
 1. Now go back, and both try again, editing the same lines. See how it gives up and gives you all the information it can into the file? Choose a winner, delete all the "ascii art <<<< ==== >>>>" and commit, (push/pull)+.
 
+## How does it work?
+
+``last-word-bot`` is a script in python/bash that pulls from the git repository and submits a timestamp update if it has changed. It has infinite patience and will get the last word.
