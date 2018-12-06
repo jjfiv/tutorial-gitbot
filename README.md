@@ -1,7 +1,7 @@
 # smith-gitbot
 A bot that must have the last word makes for a decent git tutorial.
 
-## Instructions:
+## Independent Working Instructions:
 
 1. Get write access to this repository (need your github handle).
 1. Clone this repository.
@@ -21,4 +21,14 @@ git push
 ```
 5. Observe ``last-word-bot`` committing the time over you.
 6. Practice editing the file and dealing with the need to pull and push to get your changes into ``master``.
+
+## Merge Conflict Practice
+
+1. Find a partner.
+1. Choose one of your files to work on.
+1. Both edit the same file (one add a comment at top, one add at the bottom.)
+1. Choose one of you to win.
+1. commit, (push/pull)+
+1. Go back and let the other one try. See that Git can resolve some changes automatically!
+1. Now go back, and both try again, editing the same lines. See how it gives up and gives you all the information it can into the file? Choose a winner, delete all the "ascii art <<<< ==== >>>>" and commit, (push/pull)+.
 
