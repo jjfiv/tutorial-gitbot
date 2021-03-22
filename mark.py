@@ -2,3 +2,4 @@
 # Hello darkness, my old friend~~~
 if __name__ == '__main__':
   print("Hello World Mark!")
+# Hello brightness, my new friend~~~
